@@ -1,7 +1,7 @@
 # About me
 
-## - 🔭 I’m currently working on 🍹
-- 🌱 I’m currently learning ![Python](https://7tv.app/emotes/01HMES07V800070FCM1Q64QDGR)
+## 🔭 I’m currently working on 🍹
+## 🌱 I’m currently learning ![Python](/PYTHON-2x.png)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
